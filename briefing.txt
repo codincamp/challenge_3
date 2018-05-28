@@ -11,10 +11,7 @@ Zone de travail :
 - Les fonds occupent tout l'écran par contre
 
 Fonts :
-- la typo utilisée est "News Cycle" => https://www.google.com/fonts#UsePlace:use/Collection:News+Cycle
-- titre : 55px
-- sous titre : 22px
-- la taille de tous les textes est de 17px
+- la typo utilisée est "News Cycle" (Google fonts)
 
 Couleurs :
 - texte vert (rollover) : #27AE61
